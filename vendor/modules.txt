@@ -92,7 +92,7 @@ github.com/distribution/reference
 ## explicit
 github.com/docker/distribution/registry/api/errcode
 github.com/docker/distribution/registry/api/v2
-# github.com/docker/docker v28.5.2+incompatible
+# github.com/docker/docker v28.5.3-0.20260325154711-31a1689cb0a1+incompatible
 ## explicit
 github.com/docker/docker/api
 github.com/docker/docker/api/types
