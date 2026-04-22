@@ -18,6 +18,7 @@ builds:
       - arm64
     tags:
       - containers_image_openpgp
+      - exclude_graphdriver_btrfs
     flags:
       - -trimpath
     ldflags:

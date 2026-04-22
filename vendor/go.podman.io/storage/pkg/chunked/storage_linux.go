@@ -18,7 +18,7 @@ import (
 	"syscall"
 
 	"github.com/containerd/stargz-snapshotter/estargz"
-	securejoin "github.com/cyphar/filepath-securejoin"
+	securejoin "github.com/cyphar/filepath-securejoin/pathrs-lite"
 	jsoniter "github.com/json-iterator/go"
 	"github.com/klauspost/compress/zstd"
 	"github.com/klauspost/pgzip"
