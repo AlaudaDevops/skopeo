@@ -8,7 +8,7 @@ import (
 	"os/user"
 	"strconv"
 
-	securejoin "github.com/cyphar/filepath-securejoin/pathrs-lite"
+	securejoin "github.com/cyphar/filepath-securejoin"
 	libcontainerUser "github.com/moby/sys/user"
 	"github.com/sirupsen/logrus"
 	drivers "go.podman.io/storage/drivers"
