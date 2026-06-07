@@ -1,7 +1,7 @@
 module github.com/containers/skopeo
 
 // Minimum required golang version
-go 1.26.3
+go 1.26.4
 
 // Warning: Ensure the "go" and "toolchain" versions match exactly to prevent unwanted auto-updates
 
